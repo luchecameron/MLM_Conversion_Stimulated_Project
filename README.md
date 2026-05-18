@@ -67,7 +67,6 @@ This analysis investigates lead behavior and engagement patterns to answer key b
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 
 ### Dashboard Development
 - Power BI
